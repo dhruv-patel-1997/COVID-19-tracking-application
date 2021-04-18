@@ -87,8 +87,8 @@ public class MobileDevice {
         } catch (IOException e) {
             System.out.println(e);
         }
-        return concat;
-        //return getSha256(concat);
+        //return concat;
+        return getSha256(concat);
     }
 
     // This method sets starting tags inside xml file
