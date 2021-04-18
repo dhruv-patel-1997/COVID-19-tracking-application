@@ -1,1 +1,16 @@
 Course project
+
+This project contain following files
+
+Project Documents
+    ProjectDesign.pdf  This pdf outlines the design of the project
+    ProjectTestCases.pdf This pdf outline test cases and data flow and control flow of test cases
+Project sql script
+    Project.sql This will contain the SQL script to create tables
+Resources/config
+    This folder contains the properties file needed for the project
+com/company
+    Government.java     Government java file
+    MobileDevice.java   MobileDevice java file
+    MainUnitTest.java   The unit test file containing all the unit tets
+    Main.java           The main UI file --- If needed
