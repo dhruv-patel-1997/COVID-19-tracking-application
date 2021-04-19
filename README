@@ -14,3 +14,6 @@ com/company
     MobileDevice.java   MobileDevice java file
     MainUnitTest.java   The unit test file containing all the unit tets
     Main.java           The main UI file --- If needed
+    
+
+Please note that control flow for each method is outlined in ProjectTestCases and the remaining are covered in Unit Tests( highlited in ProjectDesign.pdf) as well which are tested in test suites provided.
